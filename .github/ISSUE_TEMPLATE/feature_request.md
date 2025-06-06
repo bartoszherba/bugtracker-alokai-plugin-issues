@@ -2,8 +2,9 @@
 name: "✨ Feature Request"
 about: Suggest a new feature or improvement for the Alokai VS Code extension
 title: "[Feature] <your title here>"
-labels: ["enhancement"]
-assignees: ""
+labels: enhancement
+assignees: bartoszherba
+
 ---
 
 ## 🚀 Feature Description
